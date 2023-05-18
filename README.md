@@ -101,8 +101,7 @@ You should already have NodeJS installed in your computer. If you don't, install
 ### Installation
 
 1. Extract the Mission3_Task4-main folder to a local directory of your choice.
-2. Extract the node_modules folder inside the node_modules.zip file into the Mission0_Assignment-main folder you extracted previously.
-3. Open this Mission0_Assignment-main folder using Visual Studio Code.
+2. Open this Mission3_Task4-main folder using Visual Studio Code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
